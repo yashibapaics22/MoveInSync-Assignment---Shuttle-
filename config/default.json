@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/shuttle-management",
+  "jwtSecret": "shuttle_app_secret_token"
+} 
